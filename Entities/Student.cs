@@ -17,7 +17,7 @@ namespace EasyReg_BackEnd.Entities
         public required string Phone { get; set; }
 
         [Required(ErrorMessage = "Age is required")]
-        [Range(18, 255, ErrorMessage = "Age must be between 18 and 255")]
+        [Range(16, 80, ErrorMessage = "Age must be between 16 and 80")]
         public required byte Age { get; set; }
     }
 }

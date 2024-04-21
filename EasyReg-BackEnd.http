@@ -1,0 +1,7 @@
+@EasyReg-BackEnd_HostAddress = https://localhost:7242
+@EasyReg_BackEnd_HostAddress = http://localhost:5190
+
+
+GET {{EasyReg-BackEnd_HostAddress}}/api/students
+
+###

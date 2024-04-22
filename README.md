@@ -49,7 +49,6 @@ EasyReg is a simple registration form with CRUD functionality for inserting and 
    ```bash
    dotnet run
 
-
 ## Usage
 Once the application is running, you can access it in your web browser at:
 [https://localhost:7242](https://localhost:7242)

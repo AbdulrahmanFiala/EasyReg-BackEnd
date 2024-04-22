@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EasyReg-BackEnd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5490854e402103978368215dfc8fb92f494a1458")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+951f3617f3fc6ab7faabd8c162b9da3b62bf6e70")]
 [assembly: System.Reflection.AssemblyProductAttribute("EasyReg-BackEnd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EasyReg-BackEnd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

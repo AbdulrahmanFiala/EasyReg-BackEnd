@@ -23,7 +23,6 @@ EasyReg is a simple registration form with CRUD functionality for inserting and 
 
 ### Prerequisites
 - .NET Core SDK installed
-- Maven build tool installed
 - SQL Server Express installed and running
 
 ### Steps

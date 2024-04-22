@@ -1,7 +1,52 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bodda\\source\\repos\\EasyReg-BackEnd\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\bodda\\Documents\\GitHub\\EasyReg-BackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{969A0D5F-4A2B-4574-B471-9E2CC10733DE}|EasyReg-BackEnd.csproj|c:\\users\\bodda\\documents\\github\\easyreg-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969A0D5F-4A2B-4574-B471-9E2CC10733DE}|EasyReg-BackEnd.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969A0D5F-4A2B-4574-B471-9E2CC10733DE}|EasyReg-BackEnd.csproj|c:\\users\\bodda\\documents\\github\\easyreg-backend\\easyreg-backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{969A0D5F-4A2B-4574-B471-9E2CC10733DE}|EasyReg-BackEnd.csproj|solutionrelative:easyreg-backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969A0D5F-4A2B-4574-B471-9E2CC10733DE}|EasyReg-BackEnd.csproj|c:\\users\\bodda\\documents\\github\\easyreg-backend\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969A0D5F-4A2B-4574-B471-9E2CC10733DE}|EasyReg-BackEnd.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969A0D5F-4A2B-4574-B471-9E2CC10733DE}|EasyReg-BackEnd.csproj|c:\\users\\bodda\\documents\\github\\easyreg-backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{969A0D5F-4A2B-4574-B471-9E2CC10733DE}|EasyReg-BackEnd.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969A0D5F-4A2B-4574-B471-9E2CC10733DE}|EasyReg-BackEnd.csproj|c:\\users\\bodda\\documents\\github\\easyreg-backend\\easyreg-backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{969A0D5F-4A2B-4574-B471-9E2CC10733DE}|EasyReg-BackEnd.csproj|solutionrelative:easyreg-backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969A0D5F-4A2B-4574-B471-9E2CC10733DE}|EasyReg-BackEnd.csproj|c:\\users\\bodda\\documents\\github\\easyreg-backend\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969A0D5F-4A2B-4574-B471-9E2CC10733DE}|EasyReg-BackEnd.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bodda\\Documents\\GitHub\\EasyReg-BackEnd\\obj\\project.assets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\project.assets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bodda\\Documents\\GitHub\\EasyReg-BackEnd\\obj\\project.nuget.cache||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\project.nuget.cache||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bodda\\Documents\\GitHub\\EasyReg-BackEnd\\EasyReg-BackEnd.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EasyReg-BackEnd.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969A0D5F-4A2B-4574-B471-9E2CC10733DE}|EasyReg-BackEnd.csproj|c:\\users\\bodda\\documents\\github\\easyreg-backend\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969A0D5F-4A2B-4574-B471-9E2CC10733DE}|EasyReg-BackEnd.csproj|solutionrelative:entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969A0D5F-4A2B-4574-B471-9E2CC10733DE}|EasyReg-BackEnd.csproj|c:\\users\\bodda\\documents\\github\\easyreg-backend\\.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{969A0D5F-4A2B-4574-B471-9E2CC10733DE}|EasyReg-BackEnd.csproj|solutionrelative:.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +54,145 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\bodda\\Documents\\GitHub\\EasyReg-BackEnd\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\bodda\\Documents\\GitHub\\EasyReg-BackEnd\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:15:21.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "project.assets.json",
+              "DocumentMoniker": "C:\\Users\\bodda\\Documents\\GitHub\\EasyReg-BackEnd\\obj\\project.assets.json",
+              "RelativeDocumentMoniker": "obj\\project.assets.json",
+              "ToolTip": "C:\\Users\\bodda\\Documents\\GitHub\\EasyReg-BackEnd\\obj\\project.assets.json",
+              "RelativeToolTip": "obj\\project.assets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-21T15:15:17.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\bodda\\Documents\\GitHub\\EasyReg-BackEnd\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\bodda\\Documents\\GitHub\\EasyReg-BackEnd\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-21T15:15:14.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\bodda\\Documents\\GitHub\\EasyReg-BackEnd\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\bodda\\Documents\\GitHub\\EasyReg-BackEnd\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAmwE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:15:28.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bodda\\Documents\\GitHub\\EasyReg-BackEnd\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\bodda\\Documents\\GitHub\\EasyReg-BackEnd\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:00:52.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EasyReg-BackEnd.csproj",
+              "DocumentMoniker": "C:\\Users\\bodda\\Documents\\GitHub\\EasyReg-BackEnd\\EasyReg-BackEnd.csproj",
+              "RelativeDocumentMoniker": "EasyReg-BackEnd.csproj",
+              "ToolTip": "C:\\Users\\bodda\\Documents\\GitHub\\EasyReg-BackEnd\\EasyReg-BackEnd.csproj",
+              "RelativeToolTip": "EasyReg-BackEnd.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-21T14:16:52.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EasyReg-BackEnd.http",
+              "DocumentMoniker": "C:\\Users\\bodda\\Documents\\GitHub\\EasyReg-BackEnd\\EasyReg-BackEnd.http",
+              "RelativeDocumentMoniker": "EasyReg-BackEnd.http",
+              "ToolTip": "C:\\Users\\bodda\\Documents\\GitHub\\EasyReg-BackEnd\\EasyReg-BackEnd.http",
+              "RelativeToolTip": "EasyReg-BackEnd.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-21T14:14:42.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "project.nuget.cache",
+              "DocumentMoniker": "C:\\Users\\bodda\\Documents\\GitHub\\EasyReg-BackEnd\\obj\\project.nuget.cache",
+              "RelativeDocumentMoniker": "obj\\project.nuget.cache",
+              "ToolTip": "C:\\Users\\bodda\\Documents\\GitHub\\EasyReg-BackEnd\\obj\\project.nuget.cache",
+              "RelativeToolTip": "obj\\project.nuget.cache",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002368|",
+              "WhenOpened": "2024-04-21T15:15:15.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": ".gitattributes",
+              "DocumentMoniker": "C:\\Users\\bodda\\Documents\\GitHub\\EasyReg-BackEnd\\.gitattributes",
+              "RelativeDocumentMoniker": ".gitattributes",
+              "ToolTip": "C:\\Users\\bodda\\Documents\\GitHub\\EasyReg-BackEnd\\.gitattributes",
+              "RelativeToolTip": ".gitattributes",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-21T15:15:13.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EasyReg-BackEnd.csproj.user",
+              "DocumentMoniker": "C:\\Users\\bodda\\Documents\\GitHub\\EasyReg-BackEnd\\EasyReg-BackEnd.csproj.user",
+              "RelativeDocumentMoniker": "EasyReg-BackEnd.csproj.user",
+              "ToolTip": "C:\\Users\\bodda\\Documents\\GitHub\\EasyReg-BackEnd\\EasyReg-BackEnd.csproj.user",
+              "RelativeToolTip": "EasyReg-BackEnd.csproj.user",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-04-21T15:15:10.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\bodda\\Documents\\GitHub\\EasyReg-BackEnd\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\bodda\\Documents\\GitHub\\EasyReg-BackEnd\\Entities\\Student.cs",
+              "RelativeToolTip": "Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:49:56.45Z"
             }
           ]
         }
